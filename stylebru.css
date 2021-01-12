@@ -1,0 +1,94 @@
+body{
+    background-color: floralwhite
+}
+
+#navbar{
+    background-color: darkslateblue;
+    color: white;
+    font-size: 15px;
+    padding: 1px;
+    margin: -10px;
+    font-family: Lucida Sans;
+}
+
+#navbar td{
+    padding: 10px;
+}
+
+#navbar a:link{
+    color: white;
+    text-decoration: none;
+}
+
+#navbar a:visited{
+    color: cornsilk;
+    text-decoration: none;
+}
+
+
+td:hover{
+    background-color: skyblue;
+}
+
+#navlogo{
+    background-color: aliceblue;
+}
+
+#navlogo a:link{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 30px;
+    color: darkgreen;
+}
+
+#navlogo a:link{
+    color: darkgreen;
+}
+
+#navlogo a:visited{
+    color: darkgreen;
+}
+
+#navlogo:hover{
+    background-color: aliceblue;
+}
+
+#logo{
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#logo h1{
+    font-size: 80px;
+    color:darkgreen;
+    padding-top: 150px;
+    margin-bottom: 0px;
+    cursor: default;
+    
+}
+
+#logo h2{
+    font-family: Georgia;
+    text-decoration: none;
+    font-size: 20px;
+    color: cadetblue;
+    text-align: match-parent;
+    cursor: default;
+}
+
+#contents h1{
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+#contents p{
+    text-indent: 50px;
+    text-align: justify;
+    font-family: georgia
+}
+
+#footer{
+    font-family: Lucida Sans;
+    margin: 325px -10px -10px 1px;
+    padding-bottom: 10px;
+}
